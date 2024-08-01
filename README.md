@@ -9,8 +9,8 @@
  
 ### intel -> Apple Mac Pro 2017
 
--requirement *in may case*
-        -- usb stick > 8GByte
+- requirement *in may case*
+-- usb stick > 8GByte
         -- [USB-C adapter to USB-A](https://www.viewsonic.com/library/tech/usb-c-usb-b-and-usb-a-whats-the-difference/)
         -- running mac os system
         -- [balena Etcher](https://etcher.balena.io/) download and install to macos
