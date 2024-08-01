@@ -15,5 +15,16 @@
 - running mac os system
 - [balena Etcher](https://etcher.balena.io/) download and install to macos
 - debian iso => [debian-12.6.0-amd64-netinst.iso](https://www.debian.org/download) download to macos
-          
+
+#### prepare usb stick
+1. start balena etcher
+2. choose the iso file from your download folder
+3. select the plugin usb stick
+4. flash
+
+#### shutdown the mac
+1. hold the left option key
+2. touch once on/off key
+3. wait to show the disk menu
+4. select
 
